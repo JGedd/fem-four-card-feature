@@ -19,7 +19,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site at Netlify](https://four-card-feature-4efb1d.netlify.app/)
 
 ## My process
 
@@ -38,7 +38,7 @@ I learned how to use CSS translate function and also how to place items in a gri
 
 ### Useful resources
 
-- [Florin Popin YouTube video](https://www.youtube.com/watch?v=PcSUEo0P0GU) - This helped me with using CSS translate on two of the cards.
+- [Florin Pop YouTube video](https://www.youtube.com/watch?v=PcSUEo0P0GU) - This helped me with using CSS translate on two of the cards.
 
 ## Author
 
