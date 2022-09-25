@@ -18,7 +18,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor solution](https://www.frontendmentor.io/solutions/four-card-feature-section-rh4jRH4Ff_)
 - Live Site URL: [Live site at Netlify](https://four-card-feature-4efb1d.netlify.app/)
 
 ## My process
